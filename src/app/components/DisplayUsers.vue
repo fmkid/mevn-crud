@@ -9,7 +9,7 @@
             <thead>
                 <tr>
                     <th>Identificador</th>
-                    <th>nombre</th>
+                    <th>Nombre</th>
                     <th>Apellido</th>
                     <th>Dirección</th>
                     <th>Ciudad</th>

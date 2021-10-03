@@ -3,5 +3,5 @@
  * Base de datos: crud_usuarios
  */
 module.exports = {
-    DB: 'mongodb://admin:admin@ds123182.mlab.com:23182/crud_usuarios'
+    DB: 'mongodb://localhost:27017/crud_usuarios'
   };
